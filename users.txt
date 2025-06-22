@@ -1,0 +1,3 @@
+name,password,email,failed_login_attempts,logged_in,role
+Adeline,1234,adeline@outlook.com,0,False,user
+bob,abcd,bob@outlook.com,0,False,admin
